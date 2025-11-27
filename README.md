@@ -78,7 +78,7 @@ Example results:
 
 ### 2. Dynamic Hedge Ratio (Kalman Filter)
 
-We estimate the relationship between two assets \(X_t\) and \(Y_t\) using a state-space model:
+We estimate the relationship between two assets $\(X_t\)$ and $\(Y_t\)$ using a state-space model:
 
 $$
 Y_t = a_t + b_t X_t + e_t
