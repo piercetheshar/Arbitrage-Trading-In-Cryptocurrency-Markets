@@ -1,4 +1,4 @@
-# Johansen Cointegration Crypto Pairs Backtesting
+# Arbitrage-Trading-In-Cryptocurrency-Markets
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
