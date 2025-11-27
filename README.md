@@ -4,6 +4,12 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?logo=numpy)
 
+![Stat Arb](https://img.shields.io/badge/Strategy-Statistical%20Arbitrage-blueviolet)
+![Cointegration](https://img.shields.io/badge/Method-Johansen%20Cointegration-orange)
+![Signals](https://img.shields.io/badge/Signals-Z--Score-brightgreen)
+![Kalman Filter](https://img.shields.io/badge/Model-Kalman%20Filter-yellow)
+
+
 
 This project implements a **pairs trading strategy on cryptocurrencies** using:
 
